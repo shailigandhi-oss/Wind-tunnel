@@ -48,11 +48,6 @@ Wind tunnels are critical in aerospace and automotive industries to validate des
 
 ---
 
-### 📸 Gallery  
-*(Add photos / CAD renders / test setup screenshots here)*  
-
----
-
 ### 📚 Learning Outcomes  
 - Mastery of **CAD modeling & technical drawings**  
 - Experience in **laser cutting, assembly & prototyping**  
